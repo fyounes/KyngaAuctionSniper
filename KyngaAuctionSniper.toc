@@ -1,0 +1,7 @@
+﻿## Interface: 70100
+## Title: Kynga's Auction Sniper
+## Author: Kynga (Ragnaros/US-Horde)
+## Notes: Scans the auction house for deals!
+## Version: 0.1
+
+KyngaAuctionSniper.lua
